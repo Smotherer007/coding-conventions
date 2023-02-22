@@ -1,6 +1,6 @@
 ---
 theme: default
-background: ./assets/background.png
+background: /background.png
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
